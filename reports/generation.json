@@ -1,0 +1,12 @@
+{
+  "seed": 271828,
+  "raw_rows": {
+    "plans": 3,
+    "areas": 5,
+    "customers": 4000,
+    "area_service_months": 120,
+    "subscription_months": 37551
+  },
+  "duplicate_copies": 100,
+  "invalid_customers": 35
+}

@@ -1,0 +1,4 @@
+plan_id,plan_name,allowance_gb,base_fee_ngn
+1,Essential,50.0,8000.0
+2,Plus,120.0,14000.0
+3,Premium,250.0,22000.0

@@ -1,0 +1,315 @@
+snapshot_id,customer_id,plan_id,month,tenure_month,usage_gb,support_tickets,gross_fee_ngn,promo_discount_ngn,service_credit_ngn,end_status,satisfaction_score,quality_reason
+109,12,1,2024-06-01,0,38.92,0,8000.0,0.0,0.0,retained,4.0,Related customer history excluded
+110,12,1,2024-07-01,1,41.87,0,8000.0,0.0,0.0,retained,,Related customer history excluded
+111,12,1,2024-08-01,2,38.06,0,8000.0,0.0,0.0,retained,,Related customer history excluded
+112,12,1,2024-09-01,3,38.05,0,8000.0,0.0,0.0,retained,,Related customer history excluded
+113,12,1,2024-10-01,4,34.06,0,8000.0,0.0,0.0,retained,,Related customer history excluded
+114,12,1,2024-11-01,5,46.15,0,8000.0,0.0,0.0,retained,4.0,Related customer history excluded
+115,12,1,2024-12-01,6,45.37,0,8000.0,0.0,0.0,retained,5.0,Related customer history excluded
+116,12,1,2025-01-01,7,35.84,1,8640.0,0.0,0.0,retained,,Related customer history excluded
+117,12,1,2025-02-01,8,27.75,0,8640.0,0.0,0.0,retained,4.0,Related customer history excluded
+118,12,1,2025-03-01,9,47.32,0,8640.0,0.0,0.0,retained,,Related customer history excluded
+119,12,1,2025-04-01,10,29.12,0,8640.0,0.0,0.0,retained,4.0,Related customer history excluded
+120,12,1,2025-05-01,11,45.61,1,8640.0,0.0,0.0,retained,,Related customer history excluded
+121,12,1,2025-06-01,12,31.42,0,8640.0,0.0,0.0,retained,3.0,Related customer history excluded
+12138,1288,2,2024-07-01,0,41.33,0,14000.0,0.0,0.0,retained,5.0,Related customer history excluded
+12139,1288,2,2024-08-01,1,44.15,0,14000.0,0.0,0.0,retained,2.0,Related customer history excluded
+12140,1288,2,2024-09-01,2,86.58,0,14000.0,0.0,0.0,retained,3.0,Related customer history excluded
+12141,1288,2,2024-10-01,3,87.19,0,14000.0,0.0,0.0,retained,,Related customer history excluded
+12142,1288,2,2024-11-01,4,51.76,0,14000.0,0.0,0.0,retained,4.0,Related customer history excluded
+12143,1288,999,2024-12-01,5,95.38,0,14000.0,0.0,0.0,retained,,Invalid source record
+12144,1288,2,2025-01-01,6,45.53,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+12145,1288,2,2025-02-01,7,62.38,1,15120.0,0.0,0.0,retained,,Related customer history excluded
+12146,1288,2,2025-03-01,8,91.85,1,15120.0,0.0,0.0,retained,,Related customer history excluded
+12147,1288,2,2025-04-01,9,98.04,1,15120.0,0.0,0.0,retained,4.0,Related customer history excluded
+12148,1288,2,2025-05-01,10,88.63,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+12149,1288,3,2025-06-01,11,115.64,0,23760.0,0.0,0.0,retained,,Related customer history excluded
+12150,1288,3,2025-07-01,12,132.99,0,23760.0,0.0,0.0,retained,,Related customer history excluded
+12151,1288,3,2025-08-01,13,116.8,0,23760.0,0.0,0.0,retained,,Related customer history excluded
+12152,1288,3,2025-09-01,14,177.51,1,23760.0,0.0,0.0,retained,,Related customer history excluded
+12153,1288,3,2025-10-01,15,123.32,0,23760.0,0.0,0.0,retained,,Related customer history excluded
+12154,1288,3,2025-11-01,16,139.24,0,23760.0,0.0,0.0,retained,4.0,Related customer history excluded
+12155,1288,3,2025-12-01,17,123.77,1,23760.0,0.0,0.0,churned,,Related customer history excluded
+122,12,1,2025-07-01,13,24.12,1,8640.0,0.0,0.0,retained,,Related customer history excluded
+1225,133,2,2024-12-01,0,120.0,2,14000.0,0.0,0.0,retained,,Related customer history excluded
+1226,133,2,2025-01-01,1,103.71,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+1227,133,2,2025-02-01,2,82.88,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+1228,133,2,2025-03-01,3,65.63,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+1229,133,2,2025-04-01,4,72.56,0,15120.0,0.0,0.0,retained,4.0,Related customer history excluded
+123,12,999,2025-08-01,14,49.5,0,8640.0,0.0,0.0,retained,,Invalid source record
+1230,133,2,2025-05-01,5,106.79,1,15120.0,0.0,0.0,retained,3.0,Related customer history excluded
+1231,133,2,2025-06-01,6,53.88,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+1232,133,2,2025-07-01,7,36.12,1,15120.0,0.0,0.0,retained,,Related customer history excluded
+1233,133,2,2025-08-01,8,50.67,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+1234,133,2,2025-09-01,9,108.56,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+1235,133,2,2025-10-01,10,110.55,0,15120.0,0.0,0.0,retained,5.0,Related customer history excluded
+1236,133,2,2025-11-01,11,79.54,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+1237,133,999,2025-12-01,12,55.2,1,15120.0,0.0,0.0,retained,,Invalid source record
+124,12,1,2025-09-01,15,17.42,1,8640.0,0.0,0.0,retained,,Related customer history excluded
+125,12,1,2025-10-01,16,23.13,1,8640.0,0.0,0.0,retained,,Related customer history excluded
+126,12,1,2025-11-01,17,24.94,0,8640.0,0.0,0.0,retained,,Related customer history excluded
+127,12,1,2025-12-01,18,35.84,0,8640.0,0.0,0.0,retained,,Related customer history excluded
+13020,1373,1,2025-08-01,0,30.16,1,8640.0,0.0,0.0,retained,4.0,Related customer history excluded
+13021,1373,1,2025-09-01,1,50.0,0,8640.0,0.0,0.0,retained,,Related customer history excluded
+13022,1373,1,2025-10-01,2,31.16,0,8640.0,0.0,0.0,retained,4.0,Related customer history excluded
+13023,1373,1,2025-11-01,3,50.0,0,8640.0,0.0,0.0,retained,3.0,Related customer history excluded
+13024,1373,999,2025-12-01,4,40.39,0,8640.0,0.0,0.0,retained,5.0,Invalid source record
+14356,1524,2,2025-03-01,0,92.01,3,15120.0,0.0,1512.0,retained,3.0,Related customer history excluded
+14357,1524,2,2025-04-01,1,120.0,4,-500.0,0.0,1512.0,churned,,Invalid source record
+15360,1646,2,2024-01-01,0,91.0,0,-500.0,2100.0,0.0,churned,,Invalid source record
+15683,1686,1,2024-12-01,0,24.54,1,8000.0,0.0,0.0,retained,3.0,Related customer history excluded
+15684,1686,1,2025-01-01,1,31.72,0,-500.0,0.0,0.0,retained,,Invalid source record
+15685,1686,1,2025-02-01,2,46.55,0,8640.0,0.0,0.0,retained,,Related customer history excluded
+15686,1686,1,2025-03-01,3,39.75,0,8640.0,0.0,0.0,retained,5.0,Related customer history excluded
+15687,1686,1,2025-04-01,4,28.88,0,8640.0,0.0,0.0,retained,,Related customer history excluded
+15688,1686,1,2025-05-01,5,50.0,0,8640.0,0.0,0.0,retained,,Related customer history excluded
+15689,1686,1,2025-06-01,6,41.04,0,8640.0,0.0,0.0,retained,,Related customer history excluded
+15690,1686,1,2025-07-01,7,50.0,1,8640.0,0.0,0.0,retained,,Related customer history excluded
+15691,1686,1,2025-08-01,8,43.7,2,8640.0,0.0,0.0,retained,,Related customer history excluded
+15692,1686,3,2025-09-01,9,250.0,0,23760.0,0.0,0.0,retained,4.0,Related customer history excluded
+15693,1686,3,2025-10-01,10,197.03,0,23760.0,0.0,0.0,retained,,Related customer history excluded
+15694,1686,3,2025-11-01,11,227.87,0,23760.0,0.0,0.0,retained,,Related customer history excluded
+15695,1686,3,2025-12-01,12,103.12,0,23760.0,0.0,0.0,retained,4.0,Related customer history excluded
+15824,1705,999,2025-09-01,0,28.89,0,8640.0,1296.0,0.0,retained,,Invalid source record
+15825,1705,1,2025-10-01,1,22.38,0,8640.0,1296.0,0.0,retained,,Related customer history excluded
+15826,1705,1,2025-11-01,2,37.8,0,8640.0,1296.0,0.0,retained,4.0,Related customer history excluded
+15827,1705,1,2025-12-01,3,35.87,0,8640.0,0.0,0.0,retained,,Related customer history excluded
+16400,1764,1,2024-05-01,0,26.56,0,8000.0,1200.0,0.0,retained,,Related customer history excluded
+16401,1764,1,2024-06-01,1,50.0,2,8000.0,1200.0,0.0,retained,,Related customer history excluded
+16402,1764,1,2024-07-01,2,21.25,0,8000.0,1200.0,0.0,retained,4.0,Related customer history excluded
+16403,1764,1,2024-08-01,3,32.61,0,8000.0,0.0,0.0,retained,,Related customer history excluded
+16404,1764,1,2024-09-01,4,50.0,0,8000.0,0.0,0.0,retained,4.0,Related customer history excluded
+16405,1764,1,2024-10-01,5,21.2,0,8000.0,0.0,0.0,retained,,Related customer history excluded
+16406,1764,1,2024-11-01,6,38.83,2,8000.0,0.0,0.0,retained,,Related customer history excluded
+16407,1764,1,2024-12-01,7,35.6,0,8000.0,0.0,0.0,retained,,Related customer history excluded
+16408,1764,999,2025-01-01,8,23.1,1,8640.0,0.0,0.0,retained,,Invalid source record
+16409,1764,1,2025-02-01,9,43.73,0,8640.0,0.0,0.0,retained,,Related customer history excluded
+16410,1764,1,2025-03-01,10,27.03,0,8640.0,0.0,864.0,retained,,Related customer history excluded
+16411,1764,1,2025-04-01,11,26.43,1,8640.0,0.0,864.0,retained,3.0,Related customer history excluded
+16412,1764,1,2025-05-01,12,36.48,0,8640.0,0.0,864.0,retained,3.0,Related customer history excluded
+16413,1764,1,2025-06-01,13,38.53,1,8640.0,0.0,864.0,retained,2.0,Related customer history excluded
+16414,1764,1,2025-07-01,14,45.41,0,8640.0,0.0,0.0,retained,,Related customer history excluded
+16415,1764,1,2025-08-01,15,26.67,1,8640.0,0.0,0.0,retained,,Related customer history excluded
+16416,1764,1,2025-09-01,16,27.88,0,8640.0,0.0,0.0,retained,3.0,Related customer history excluded
+16417,1764,1,2025-10-01,17,40.01,0,8640.0,0.0,0.0,retained,,Related customer history excluded
+16418,1764,1,2025-11-01,18,27.82,1,8640.0,0.0,0.0,retained,,Related customer history excluded
+16419,1764,1,2025-12-01,19,47.05,2,8640.0,0.0,0.0,retained,,Related customer history excluded
+16882,1814,1,2025-03-01,0,22.66,1,-500.0,1296.0,734.4,churned,,Invalid source record
+17928,1927,1,2025-03-01,0,29.66,0,-500.0,0.0,0.0,retained,3.0,Invalid source record
+17929,1927,1,2025-04-01,1,22.04,1,8640.0,0.0,0.0,churned,,Related customer history excluded
+18248,1960,999,2025-12-01,0,34.89,0,8640.0,0.0,0.0,retained,,Invalid source record
+18374,1978,2,2025-03-01,0,88.26,0,15120.0,2268.0,1285.2,retained,,Related customer history excluded
+18375,1978,2,2025-04-01,1,40.04,2,15120.0,2268.0,1285.2,retained,,Related customer history excluded
+18376,1978,2,2025-05-01,2,74.35,3,15120.0,2268.0,1285.2,retained,2.0,Related customer history excluded
+18377,1978,999,2025-06-01,3,88.22,1,15120.0,0.0,1512.0,retained,,Invalid source record
+18378,1978,2,2025-07-01,4,64.79,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+18379,1978,2,2025-08-01,5,120.0,2,15120.0,0.0,0.0,retained,,Related customer history excluded
+18380,1978,2,2025-09-01,6,71.59,0,15120.0,0.0,0.0,retained,3.0,Related customer history excluded
+18381,1978,2,2025-10-01,7,120.0,1,15120.0,0.0,0.0,retained,,Related customer history excluded
+18382,1978,2,2025-11-01,8,103.9,0,15120.0,0.0,0.0,retained,4.0,Related customer history excluded
+18383,1978,2,2025-12-01,9,116.41,0,15120.0,0.0,0.0,retained,5.0,Related customer history excluded
+18464,1986,3,2025-03-01,0,250.0,0,23760.0,0.0,0.0,retained,,Related customer history excluded
+18465,1986,3,2025-04-01,1,185.21,1,23760.0,0.0,0.0,retained,,Related customer history excluded
+18466,1986,3,2025-05-01,2,220.08,0,23760.0,0.0,0.0,retained,3.0,Related customer history excluded
+18467,1986,999,2025-06-01,3,240.52,0,23760.0,0.0,0.0,retained,,Invalid source record
+18468,1986,3,2025-07-01,4,240.26,0,23760.0,0.0,0.0,retained,,Related customer history excluded
+18469,1986,3,2025-08-01,5,210.1,1,23760.0,0.0,0.0,churned,,Related customer history excluded
+20207,2167,1,2024-03-01,0,25.86,1,8000.0,0.0,0.0,retained,,Related customer history excluded
+20208,2167,2,2024-04-01,1,85.24,0,14000.0,0.0,1400.0,retained,,Related customer history excluded
+20209,2167,2,2024-05-01,2,88.18,0,14000.0,0.0,0.0,retained,,Related customer history excluded
+20210,2167,2,2024-06-01,3,92.53,0,14000.0,0.0,0.0,retained,,Related customer history excluded
+20211,2167,2,2024-07-01,4,85.49,0,14000.0,0.0,0.0,retained,,Related customer history excluded
+20212,2167,2,2024-08-01,5,91.11,0,14000.0,0.0,0.0,retained,,Related customer history excluded
+20213,2167,2,2024-09-01,6,65.4,1,14000.0,0.0,0.0,retained,4.0,Related customer history excluded
+20214,2167,2,2024-10-01,7,54.86,0,14000.0,0.0,0.0,retained,,Related customer history excluded
+20215,2167,999,2024-11-01,8,70.56,0,14000.0,0.0,1400.0,retained,,Invalid source record
+20216,2167,2,2024-12-01,9,83.29,2,14000.0,0.0,0.0,retained,,Related customer history excluded
+20217,2167,2,2025-01-01,10,114.68,1,15120.0,0.0,0.0,retained,,Related customer history excluded
+20218,2167,2,2025-02-01,11,62.7,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+20219,2167,2,2025-03-01,12,107.11,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+20220,2167,2,2025-04-01,13,68.19,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+20221,2167,2,2025-05-01,14,101.02,2,15120.0,0.0,1512.0,retained,,Related customer history excluded
+20222,2167,2,2025-06-01,15,59.69,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+20223,2167,2,2025-07-01,16,71.85,1,15120.0,0.0,0.0,retained,4.0,Related customer history excluded
+20224,2167,2,2025-08-01,17,50.35,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+20225,2167,2,2025-09-01,18,45.39,0,15120.0,0.0,1512.0,retained,,Related customer history excluded
+20226,2167,2,2025-10-01,19,107.65,1,15120.0,0.0,0.0,retained,,Related customer history excluded
+20227,2167,2,2025-11-01,20,88.4,0,15120.0,0.0,0.0,retained,3.0,Related customer history excluded
+20228,2167,2,2025-12-01,21,99.32,1,15120.0,0.0,0.0,retained,,Related customer history excluded
+2071,232,2,2024-08-01,0,120.0,0,14000.0,0.0,0.0,retained,4.0,Related customer history excluded
+2072,232,2,2024-09-01,1,103.95,1,14000.0,0.0,0.0,retained,3.0,Related customer history excluded
+2073,232,2,2024-10-01,2,120.0,0,14000.0,0.0,0.0,retained,,Related customer history excluded
+2074,232,2,2024-11-01,3,57.35,0,14000.0,0.0,1400.0,retained,,Related customer history excluded
+2075,232,2,2024-12-01,4,46.09,1,14000.0,0.0,0.0,retained,4.0,Related customer history excluded
+2076,232,2,2025-01-01,5,120.0,1,15120.0,0.0,0.0,retained,4.0,Related customer history excluded
+2077,232,2,2025-02-01,6,93.59,0,15120.0,0.0,0.0,retained,4.0,Related customer history excluded
+2078,232,2,2025-03-01,7,120.0,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+2079,232,2,2025-04-01,8,120.0,0,15120.0,0.0,0.0,retained,3.0,Related customer history excluded
+2080,232,2,2025-05-01,9,120.0,2,15120.0,0.0,1512.0,retained,4.0,Related customer history excluded
+2081,232,2,2025-06-01,10,72.49,0,15120.0,0.0,0.0,retained,4.0,Related customer history excluded
+2082,232,2,2025-07-01,11,92.66,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+2083,232,2,2025-08-01,12,120.0,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+2084,232,2,2025-09-01,13,64.67,0,15120.0,0.0,1512.0,retained,,Related customer history excluded
+2085,232,999,2025-10-01,14,87.13,0,15120.0,0.0,0.0,retained,4.0,Invalid source record
+2086,232,2,2025-11-01,15,120.0,1,15120.0,0.0,0.0,retained,,Related customer history excluded
+2087,232,2,2025-12-01,16,63.78,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+2147,237,2,2025-07-01,0,67.35,0,15120.0,2268.0,0.0,retained,,Related customer history excluded
+2148,237,999,2025-08-01,1,94.67,0,15120.0,2268.0,0.0,retained,,Invalid source record
+2149,237,2,2025-09-01,2,63.67,0,15120.0,2268.0,0.0,retained,,Related customer history excluded
+2150,237,2,2025-10-01,3,65.31,1,15120.0,0.0,0.0,retained,,Related customer history excluded
+2151,237,2,2025-11-01,4,67.16,2,15120.0,0.0,0.0,retained,,Related customer history excluded
+2152,237,2,2025-12-01,5,90.44,1,15120.0,0.0,0.0,retained,4.0,Related customer history excluded
+22103,2352,1,2024-03-01,0,50.0,0,8000.0,0.0,0.0,retained,,Related customer history excluded
+22104,2352,1,2024-04-01,1,29.23,0,8000.0,0.0,0.0,retained,,Related customer history excluded
+22105,2352,1,2024-05-01,2,30.62,0,8000.0,0.0,0.0,retained,,Related customer history excluded
+22106,2352,1,2024-06-01,3,34.8,0,8000.0,0.0,0.0,retained,,Related customer history excluded
+22107,2352,1,2024-07-01,4,50.0,0,8000.0,0.0,0.0,retained,,Related customer history excluded
+22108,2352,1,2024-08-01,5,34.28,0,8000.0,0.0,0.0,retained,,Related customer history excluded
+22109,2352,1,2024-09-01,6,50.0,0,8000.0,0.0,0.0,retained,,Related customer history excluded
+22110,2352,999,2024-10-01,7,46.92,0,8000.0,0.0,0.0,retained,,Invalid source record
+22111,2352,1,2024-11-01,8,35.66,0,8000.0,0.0,0.0,retained,5.0,Related customer history excluded
+22112,2352,1,2024-12-01,9,33.77,0,8000.0,0.0,0.0,churned,,Related customer history excluded
+22542,2397,2,2025-02-01,0,92.97,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+22543,2397,2,2025-03-01,1,64.92,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+22544,2397,2,2025-04-01,2,92.17,1,15120.0,0.0,0.0,retained,,Related customer history excluded
+22545,2397,2,2025-05-01,3,87.14,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+22546,2397,2,2025-06-01,4,78.65,1,-500.0,0.0,0.0,retained,4.0,Invalid source record
+22547,2397,3,2025-07-01,5,113.03,0,23760.0,0.0,0.0,retained,,Related customer history excluded
+22548,2397,3,2025-08-01,6,174.55,0,23760.0,0.0,0.0,retained,5.0,Related customer history excluded
+22549,2397,3,2025-09-01,7,182.09,0,23760.0,0.0,0.0,retained,,Related customer history excluded
+22550,2397,3,2025-10-01,8,247.69,1,23760.0,0.0,0.0,retained,,Related customer history excluded
+22551,2397,3,2025-11-01,9,106.14,0,23760.0,0.0,0.0,retained,,Related customer history excluded
+22552,2397,3,2025-12-01,10,134.47,0,23760.0,0.0,0.0,retained,,Related customer history excluded
+22881,2429,1,2025-07-01,0,21.24,0,8640.0,0.0,0.0,retained,,Related customer history excluded
+22882,2429,1,2025-08-01,1,30.33,0,8640.0,0.0,0.0,retained,5.0,Related customer history excluded
+22883,2429,1,2025-09-01,2,28.88,1,-500.0,0.0,864.0,retained,4.0,Invalid source record
+22884,2429,1,2025-10-01,3,47.23,0,8640.0,0.0,0.0,retained,,Related customer history excluded
+22885,2429,1,2025-11-01,4,40.0,0,8640.0,0.0,0.0,retained,4.0,Related customer history excluded
+22886,2429,1,2025-12-01,5,44.42,0,8640.0,0.0,0.0,retained,,Related customer history excluded
+2672,298,3,2025-06-01,0,144.15,1,23760.0,0.0,0.0,retained,5.0,Related customer history excluded
+2673,298,3,2025-07-01,1,250.0,0,-500.0,0.0,0.0,retained,,Invalid source record
+2674,298,3,2025-08-01,2,113.61,1,23760.0,0.0,0.0,retained,,Related customer history excluded
+2675,298,3,2025-09-01,3,151.85,0,23760.0,0.0,0.0,churned,,Related customer history excluded
+29103,3098,2,2025-10-01,0,66.62,0,-500.0,0.0,0.0,churned,,Invalid source record
+29149,3102,1,2024-09-01,0,50.0,1,8000.0,1200.0,0.0,retained,,Related customer history excluded
+29150,3102,2,2024-10-01,1,85.33,1,14000.0,2100.0,0.0,retained,,Related customer history excluded
+29151,3102,999,2024-11-01,2,90.3,0,14000.0,2100.0,0.0,retained,,Invalid source record
+29152,3102,2,2024-12-01,3,90.05,0,14000.0,0.0,0.0,retained,,Related customer history excluded
+29153,3102,2,2025-01-01,4,75.32,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+29154,3102,2,2025-02-01,5,120.0,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+29155,3102,2,2025-03-01,6,56.93,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+29156,3102,2,2025-04-01,7,77.81,4,15120.0,0.0,0.0,churned,2.0,Related customer history excluded
+3034,344,1,2025-10-01,0,43.26,1,8640.0,1296.0,0.0,retained,3.0,Related customer history excluded
+3035,344,1,2025-11-01,1,38.54,0,-500.0,1296.0,0.0,retained,,Invalid source record
+3036,344,1,2025-12-01,2,32.83,1,8640.0,1296.0,0.0,retained,,Related customer history excluded
+30577,3244,1,2025-04-01,0,38.72,0,8640.0,0.0,0.0,retained,3.0,Related customer history excluded
+30578,3244,1,2025-05-01,1,25.83,0,-500.0,0.0,864.0,churned,,Invalid source record
+31620,3363,1,2024-10-01,0,32.86,1,8000.0,1200.0,0.0,retained,,Related customer history excluded
+31621,3363,1,2024-11-01,1,30.3,2,-500.0,1200.0,680.0,churned,,Invalid source record
+3219,367,3,2025-09-01,0,250.0,0,23760.0,0.0,2376.0,retained,,Related customer history excluded
+3220,367,2,2025-10-01,1,98.09,2,15120.0,0.0,0.0,retained,4.0,Related customer history excluded
+3221,367,2,2025-11-01,2,94.87,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+3222,367,999,2025-12-01,3,78.91,1,15120.0,0.0,0.0,churned,,Invalid source record
+33855,3615,3,2024-04-01,0,165.33,1,22000.0,3300.0,0.0,retained,,Related customer history excluded
+33856,3615,3,2024-05-01,1,148.08,0,22000.0,3300.0,0.0,retained,,Related customer history excluded
+33857,3615,3,2024-06-01,2,78.28,0,22000.0,3300.0,0.0,retained,4.0,Related customer history excluded
+33858,3615,3,2024-07-01,3,178.99,0,22000.0,0.0,0.0,retained,3.0,Related customer history excluded
+33859,3615,3,2024-08-01,4,113.73,2,22000.0,0.0,0.0,retained,3.0,Related customer history excluded
+33860,3615,3,2024-09-01,5,114.23,0,-500.0,0.0,0.0,retained,,Invalid source record
+33861,3615,3,2024-10-01,6,151.09,0,22000.0,0.0,0.0,retained,,Related customer history excluded
+33862,3615,3,2024-11-01,7,250.0,1,22000.0,0.0,0.0,retained,,Related customer history excluded
+33863,3615,3,2024-12-01,8,175.82,0,22000.0,0.0,0.0,retained,4.0,Related customer history excluded
+33864,3615,3,2025-01-01,9,98.72,0,23760.0,0.0,0.0,retained,,Related customer history excluded
+33865,3615,3,2025-02-01,10,195.88,0,23760.0,0.0,0.0,retained,,Related customer history excluded
+33866,3615,3,2025-03-01,11,234.25,2,23760.0,0.0,2376.0,retained,,Related customer history excluded
+33867,3615,3,2025-04-01,12,110.48,1,23760.0,0.0,2376.0,retained,,Related customer history excluded
+33868,3615,3,2025-05-01,13,208.63,0,23760.0,0.0,2376.0,retained,,Related customer history excluded
+33869,3615,3,2025-06-01,14,134.16,1,23760.0,0.0,2376.0,retained,,Related customer history excluded
+33870,3615,3,2025-07-01,15,250.0,1,23760.0,0.0,0.0,retained,,Related customer history excluded
+33871,3615,3,2025-08-01,16,145.7,2,23760.0,0.0,0.0,retained,,Related customer history excluded
+33872,3615,3,2025-09-01,17,181.24,0,23760.0,0.0,0.0,retained,5.0,Related customer history excluded
+33873,3615,3,2025-10-01,18,114.01,0,23760.0,0.0,0.0,retained,,Related customer history excluded
+33874,3615,3,2025-11-01,19,120.64,0,23760.0,0.0,0.0,retained,,Related customer history excluded
+33875,3615,3,2025-12-01,20,134.93,0,23760.0,0.0,0.0,retained,,Related customer history excluded
+3460,392,2,2025-08-01,0,74.73,0,15120.0,2268.0,0.0,retained,,Related customer history excluded
+3461,392,2,2025-09-01,1,112.14,0,15120.0,2268.0,0.0,retained,,Related customer history excluded
+3462,392,2,2025-10-01,2,89.66,0,15120.0,2268.0,0.0,retained,4.0,Related customer history excluded
+3463,392,999,2025-11-01,3,120.0,0,15120.0,0.0,0.0,retained,4.0,Invalid source record
+3464,392,2,2025-12-01,4,84.93,0,15120.0,0.0,0.0,retained,5.0,Related customer history excluded
+34987,3741,2,2025-11-01,0,54.51,0,15120.0,0.0,0.0,retained,5.0,Related customer history excluded
+34988,3741,2,2025-12-01,1,86.9,2,-500.0,0.0,0.0,retained,,Invalid source record
+4287,488,2,2024-08-01,0,51.08,0,14000.0,0.0,0.0,retained,,Related customer history excluded
+4288,488,2,2024-09-01,1,95.74,0,14000.0,0.0,0.0,retained,,Related customer history excluded
+4289,488,2,2024-10-01,2,89.09,0,14000.0,0.0,0.0,retained,5.0,Related customer history excluded
+4290,488,2,2024-11-01,3,98.4,0,14000.0,0.0,0.0,retained,,Related customer history excluded
+4291,488,2,2024-12-01,4,89.34,1,14000.0,0.0,0.0,retained,4.0,Related customer history excluded
+4292,488,2,2025-01-01,5,90.76,0,15120.0,0.0,0.0,retained,5.0,Related customer history excluded
+4293,488,2,2025-02-01,6,60.12,1,15120.0,0.0,0.0,retained,,Related customer history excluded
+4294,488,2,2025-03-01,7,63.35,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+4295,488,2,2025-04-01,8,48.38,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+4296,488,2,2025-05-01,9,101.13,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+4297,488,2,2025-06-01,10,120.0,0,15120.0,0.0,0.0,retained,4.0,Related customer history excluded
+4298,488,999,2025-07-01,11,79.12,0,15120.0,0.0,0.0,retained,,Invalid source record
+4299,488,2,2025-08-01,12,53.63,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+4300,488,2,2025-09-01,13,57.79,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+4301,488,2,2025-10-01,14,70.67,2,15120.0,0.0,0.0,retained,,Related customer history excluded
+4302,488,2,2025-11-01,15,88.63,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+4303,488,2,2025-12-01,16,114.1,0,15120.0,0.0,0.0,retained,5.0,Related customer history excluded
+7279,776,1,2025-01-01,0,33.47,1,8640.0,0.0,0.0,retained,5.0,Related customer history excluded
+7280,776,1,2025-02-01,1,50.0,0,8640.0,0.0,0.0,retained,,Related customer history excluded
+7281,776,1,2025-03-01,2,50.0,0,8640.0,0.0,0.0,retained,5.0,Related customer history excluded
+7282,776,1,2025-04-01,3,30.36,0,8640.0,0.0,0.0,retained,,Related customer history excluded
+7283,776,1,2025-05-01,4,27.1,2,-500.0,0.0,0.0,churned,,Invalid source record
+7303,778,3,2024-09-01,0,130.04,0,22000.0,0.0,0.0,retained,,Related customer history excluded
+7304,778,3,2024-10-01,1,250.0,1,22000.0,0.0,0.0,retained,,Related customer history excluded
+7305,778,3,2024-11-01,2,222.71,0,22000.0,0.0,0.0,retained,4.0,Related customer history excluded
+7306,778,3,2024-12-01,3,250.0,0,22000.0,0.0,0.0,retained,3.0,Related customer history excluded
+7307,778,3,2025-01-01,4,146.82,0,23760.0,0.0,0.0,retained,4.0,Related customer history excluded
+7308,778,3,2025-02-01,5,117.2,0,23760.0,0.0,0.0,retained,,Related customer history excluded
+7309,778,3,2025-03-01,6,139.95,1,23760.0,0.0,0.0,retained,,Related customer history excluded
+7310,778,3,2025-04-01,7,209.82,0,23760.0,0.0,0.0,retained,,Related customer history excluded
+7311,778,3,2025-05-01,8,171.4,0,23760.0,0.0,0.0,retained,4.0,Related customer history excluded
+7312,778,3,2025-06-01,9,219.06,0,23760.0,0.0,0.0,retained,,Related customer history excluded
+7313,778,3,2025-07-01,10,92.22,0,23760.0,0.0,0.0,retained,,Related customer history excluded
+7314,778,3,2025-08-01,11,173.82,0,23760.0,0.0,0.0,retained,4.0,Related customer history excluded
+7315,778,3,2025-09-01,12,169.24,1,23760.0,0.0,0.0,retained,5.0,Related customer history excluded
+7316,778,999,2025-10-01,13,110.87,0,23760.0,0.0,0.0,retained,,Invalid source record
+7317,778,3,2025-11-01,14,129.59,0,23760.0,0.0,0.0,retained,5.0,Related customer history excluded
+7318,778,3,2025-12-01,15,187.34,0,23760.0,0.0,0.0,retained,5.0,Related customer history excluded
+7943,837,1,2024-10-01,0,36.57,1,8000.0,1200.0,0.0,retained,,Related customer history excluded
+7944,837,1,2024-11-01,1,36.64,0,8000.0,1200.0,0.0,retained,,Related customer history excluded
+7945,837,1,2024-12-01,2,21.62,0,8000.0,1200.0,0.0,retained,4.0,Related customer history excluded
+7946,837,1,2025-01-01,3,29.55,0,8640.0,0.0,0.0,retained,,Related customer history excluded
+7947,837,1,2025-02-01,4,24.82,0,8640.0,0.0,0.0,retained,,Related customer history excluded
+7948,837,1,2025-03-01,5,50.0,0,8640.0,0.0,0.0,retained,3.0,Related customer history excluded
+7949,837,1,2025-04-01,6,19.74,0,8640.0,0.0,0.0,retained,,Related customer history excluded
+7950,837,1,2025-05-01,7,45.28,0,8640.0,0.0,0.0,retained,,Related customer history excluded
+7951,837,1,2025-06-01,8,16.11,1,8640.0,0.0,0.0,retained,4.0,Related customer history excluded
+7952,837,999,2025-07-01,9,35.46,0,8640.0,0.0,0.0,retained,,Invalid source record
+7953,837,1,2025-08-01,10,25.63,0,8640.0,0.0,0.0,retained,,Related customer history excluded
+7954,837,1,2025-09-01,11,27.55,0,8640.0,0.0,0.0,retained,,Related customer history excluded
+7955,837,1,2025-10-01,12,37.64,1,8640.0,0.0,0.0,retained,,Related customer history excluded
+7956,837,1,2025-11-01,13,23.19,0,8640.0,0.0,0.0,retained,4.0,Related customer history excluded
+7957,837,1,2025-12-01,14,32.22,0,8640.0,0.0,0.0,retained,5.0,Related customer history excluded
+9149,973,2,2024-03-01,0,98.53,0,14000.0,2100.0,0.0,retained,,Related customer history excluded
+9150,973,2,2024-04-01,1,69.94,0,14000.0,2100.0,0.0,retained,3.0,Related customer history excluded
+9151,973,2,2024-05-01,2,120.0,3,14000.0,2100.0,0.0,retained,,Related customer history excluded
+9152,973,2,2024-06-01,3,37.63,1,14000.0,0.0,0.0,retained,,Related customer history excluded
+9153,973,2,2024-07-01,4,73.35,0,14000.0,0.0,0.0,retained,,Related customer history excluded
+9154,973,2,2024-08-01,5,77.62,0,14000.0,0.0,0.0,retained,,Related customer history excluded
+9155,973,2,2024-09-01,6,57.95,0,14000.0,0.0,0.0,retained,,Related customer history excluded
+9156,973,2,2024-10-01,7,80.64,0,14000.0,0.0,0.0,retained,,Related customer history excluded
+9157,973,2,2024-11-01,8,120.0,1,14000.0,0.0,0.0,retained,4.0,Related customer history excluded
+9158,973,2,2024-12-01,9,62.69,2,14000.0,0.0,0.0,retained,4.0,Related customer history excluded
+9159,973,999,2025-01-01,10,55.0,0,15120.0,0.0,0.0,retained,,Invalid source record
+9160,973,2,2025-02-01,11,78.17,0,15120.0,0.0,0.0,retained,4.0,Related customer history excluded
+9161,973,2,2025-03-01,12,81.34,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+9162,973,2,2025-04-01,13,72.04,0,15120.0,0.0,0.0,retained,4.0,Related customer history excluded
+9163,973,2,2025-05-01,14,79.04,0,15120.0,0.0,0.0,retained,4.0,Related customer history excluded
+9164,973,2,2025-06-01,15,110.74,1,15120.0,0.0,0.0,retained,,Related customer history excluded
+9165,973,2,2025-07-01,16,81.17,0,15120.0,0.0,0.0,retained,5.0,Related customer history excluded
+9166,973,2,2025-08-01,17,78.83,0,15120.0,0.0,0.0,retained,,Related customer history excluded
+9167,973,2,2025-09-01,18,52.61,1,15120.0,0.0,0.0,retained,4.0,Related customer history excluded
+9168,973,2,2025-10-01,19,54.53,1,15120.0,0.0,0.0,retained,4.0,Related customer history excluded
+9169,973,2,2025-11-01,20,58.68,2,15120.0,0.0,0.0,retained,,Related customer history excluded
+9170,973,2,2025-12-01,21,89.12,1,15120.0,0.0,0.0,retained,,Related customer history excluded

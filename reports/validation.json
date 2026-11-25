@@ -1,0 +1,21 @@
+{
+  "counts": {
+    "raw_subscription_months": 37551,
+    "subscription_months": 37137,
+    "invalid_rows": 35,
+    "quarantine": 314,
+    "eligible_customers": 3965,
+    "subscription_mart": 37137
+  },
+  "duplicates_removed": 100,
+  "failed_checks": {
+    "references": 0,
+    "customer_areas": 0,
+    "billing_and_usage": 0,
+    "chronology": 0,
+    "contiguous_history": 0,
+    "exit_sequence": 0,
+    "service_bounds": 0
+  },
+  "customer_flow_reconciles": true
+}

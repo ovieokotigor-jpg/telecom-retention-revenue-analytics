@@ -1,0 +1,36 @@
+snapshot_id,customer_id,plan_id,month,tenure_month,usage_gb,support_tickets,gross_fee_ngn,promo_discount_ngn,service_credit_ngn,end_status,satisfaction_score,quality_reason
+12143,1288,999,2024-12-01,5,95.38,0,14000.0,0.0,0.0,retained,,Unknown plan
+123,12,999,2025-08-01,14,49.5,0,8640.0,0.0,0.0,retained,,Unknown plan
+1237,133,999,2025-12-01,12,55.2,1,15120.0,0.0,0.0,retained,,Unknown plan
+13024,1373,999,2025-12-01,4,40.39,0,8640.0,0.0,0.0,retained,5.0,Unknown plan
+14357,1524,2,2025-04-01,1,120.0,4,-500.0,0.0,1512.0,churned,,Invalid billing values
+15360,1646,2,2024-01-01,0,91.0,0,-500.0,2100.0,0.0,churned,,Invalid billing values
+15684,1686,1,2025-01-01,1,31.72,0,-500.0,0.0,0.0,retained,,Invalid billing values
+15824,1705,999,2025-09-01,0,28.89,0,8640.0,1296.0,0.0,retained,,Unknown plan
+16408,1764,999,2025-01-01,8,23.1,1,8640.0,0.0,0.0,retained,,Unknown plan
+16882,1814,1,2025-03-01,0,22.66,1,-500.0,1296.0,734.4,churned,,Invalid billing values
+17928,1927,1,2025-03-01,0,29.66,0,-500.0,0.0,0.0,retained,3.0,Invalid billing values
+18248,1960,999,2025-12-01,0,34.89,0,8640.0,0.0,0.0,retained,,Unknown plan
+18377,1978,999,2025-06-01,3,88.22,1,15120.0,0.0,1512.0,retained,,Unknown plan
+18467,1986,999,2025-06-01,3,240.52,0,23760.0,0.0,0.0,retained,,Unknown plan
+20215,2167,999,2024-11-01,8,70.56,0,14000.0,0.0,1400.0,retained,,Unknown plan
+2085,232,999,2025-10-01,14,87.13,0,15120.0,0.0,0.0,retained,4.0,Unknown plan
+2148,237,999,2025-08-01,1,94.67,0,15120.0,2268.0,0.0,retained,,Unknown plan
+22110,2352,999,2024-10-01,7,46.92,0,8000.0,0.0,0.0,retained,,Unknown plan
+22546,2397,2,2025-06-01,4,78.65,1,-500.0,0.0,0.0,retained,4.0,Invalid billing values
+22883,2429,1,2025-09-01,2,28.88,1,-500.0,0.0,864.0,retained,4.0,Invalid billing values
+2673,298,3,2025-07-01,1,250.0,0,-500.0,0.0,0.0,retained,,Invalid billing values
+29103,3098,2,2025-10-01,0,66.62,0,-500.0,0.0,0.0,churned,,Invalid billing values
+29151,3102,999,2024-11-01,2,90.3,0,14000.0,2100.0,0.0,retained,,Unknown plan
+3035,344,1,2025-11-01,1,38.54,0,-500.0,1296.0,0.0,retained,,Invalid billing values
+30578,3244,1,2025-05-01,1,25.83,0,-500.0,0.0,864.0,churned,,Invalid billing values
+31621,3363,1,2024-11-01,1,30.3,2,-500.0,1200.0,680.0,churned,,Invalid billing values
+3222,367,999,2025-12-01,3,78.91,1,15120.0,0.0,0.0,churned,,Unknown plan
+33860,3615,3,2024-09-01,5,114.23,0,-500.0,0.0,0.0,retained,,Invalid billing values
+3463,392,999,2025-11-01,3,120.0,0,15120.0,0.0,0.0,retained,4.0,Unknown plan
+34988,3741,2,2025-12-01,1,86.9,2,-500.0,0.0,0.0,retained,,Invalid billing values
+4298,488,999,2025-07-01,11,79.12,0,15120.0,0.0,0.0,retained,,Unknown plan
+7283,776,1,2025-05-01,4,27.1,2,-500.0,0.0,0.0,churned,,Invalid billing values
+7316,778,999,2025-10-01,13,110.87,0,23760.0,0.0,0.0,retained,,Unknown plan
+7952,837,999,2025-07-01,9,35.46,0,8640.0,0.0,0.0,retained,,Unknown plan
+9159,973,999,2025-01-01,10,55.0,0,15120.0,0.0,0.0,retained,,Unknown plan
